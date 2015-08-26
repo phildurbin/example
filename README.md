@@ -1,2 +1,2 @@
 # example
-my test repo
+my test repo is the greatest!
